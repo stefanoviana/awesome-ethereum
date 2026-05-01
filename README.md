@@ -65,6 +65,7 @@ decided that it has value.
 - [Blockchair: Universal blockchain explorer and search engine](https://blockchair.com)
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with ML ensemble, pump scanner, Grid/DCA bots. Supports Ethereum DEX trading across 12 exchanges via CCXT. Open source.
 #### Developer Tools
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
